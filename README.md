@@ -1,6 +1,7 @@
 这个仓库是从https://github.com/CaiJimmy/hugo-theme-stack 中fork过来的,fork过来的仓库没有Issues菜单栏
 
 但是可以有如下解决办法,来打开issues:
+
 如果你 fork 的仓库是公开的并且没有禁用 Issues，你可以自己启用 Issues 功能。在 GitHub 仓库的 Settings（设置）页面中，找到 Issues 选项，确保 Issues 功能是启用的。
 
 具体步骤：
