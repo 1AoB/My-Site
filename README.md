@@ -10,6 +10,9 @@
 2.进入 Settings（仓库设置）页面。
 3.在左侧的 Features 部分，确保 Issues 选项被勾选启用。
 4.如果启用了 Issues，通常可以在每篇博客文章下方创建一个新的 issue 作为评论。
+--------
+
+------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/5889006/190859441-141b5f81-8483-40d2-bd96-ebf85616a46d.png)
 
