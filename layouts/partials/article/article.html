@@ -4,12 +4,6 @@
     {{ partial "article/components/content" . }}
 
     {{ partial "article/components/footer" . }}
-
-     <!-- 评论区链接 -->
-    <footer>
-        {{ $issueNumber := .Slug | md5 }}
-        <p>阅读后有疑问？参与讨论：[点击这里评论](https://github.com/1AoB/My-Site/issues/{{ $issueNumber }})</p>
-    </footer>
     
     {{ if or .Params.math .Site.Params.article.math }}
         {{ partialCached "article/components/math.html" . }}
