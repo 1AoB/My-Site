@@ -1,12 +1,16 @@
+<footer class="article-footer">
+
+    {{ if .Site.Params.utteranc.enable }}
 <script src="https://utteranc.es/client.js"
-repo="1AoB/My-Site.github.io"
-issue-term="title"
-theme="github-light"
+repo="{{ .Site.Params.utteranc.repo }}"
+issue-term="{{ .Site.Params.utteranc.issueTerm }}"
+theme="{{ .Site.Params.utteranc.theme }}"
 crossorigin="anonymous"
 async>
-</script>  
-
-<footer class="article-footer">
+</script>
+{{ end }}
+    
+    
     {{ partial "article/components/tags" . }}
 
     {{ if and (.Site.Params.article.license.enabled) (not (eq .Params.license false)) }}
