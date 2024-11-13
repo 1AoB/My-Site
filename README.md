@@ -1,4 +1,4 @@
-这个仓库是从https://github.com/CaiJimmy/hugo-theme-stack 中fork过来的,fork过来的仓库没有Issues菜单栏
+fork过来的仓库没有Issues菜单栏
 
 但是可以有如下解决办法,来打开issues:
 
