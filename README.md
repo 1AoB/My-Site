@@ -17,6 +17,22 @@
 
 Server:    https://app.netlify.com/
 
+
+```js
+还不知道在哪里补充一下内容:
+我估计是在这里:
+https://github.com/1AoB/My-Site/blob/master/layouts/partials/footer/footer.html
+
+<script src="https://utteranc.es/client.js"
+        repo="1AoB/My-Site"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+```
+![image](https://github.com/user-attachments/assets/4e756cbe-9ef2-42a5-82af-79d033ce1bec)
+
 ------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/5889006/190859441-141b5f81-8483-40d2-bd96-ebf85616a46d.png)
