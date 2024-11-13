@@ -1,3 +1,5 @@
+这个仓库是从https://github.com/CaiJimmy/hugo-theme-stack中fork过来的,fork过来的仓库没有Issues菜单栏
+
 ![image](https://user-images.githubusercontent.com/5889006/190859441-141b5f81-8483-40d2-bd96-ebf85616a46d.png)
 
 # Hugo Theme Stack
