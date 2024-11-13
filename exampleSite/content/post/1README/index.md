@@ -88,3 +88,7 @@ cheems,你被生活打倒了吗?
 {{< bilibili BV12C4y1o7gi >}}
 
 ![1698890999744](Picture/1698890999744.png)
+
+
+## 评论区
+你可以在 GitHub 上对这篇文章进行评论：[点击这里参与讨论](https://github.com/1AoB/My-Site/issues/1)。
