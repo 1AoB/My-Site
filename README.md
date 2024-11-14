@@ -33,9 +33,16 @@ https://github.com/1AoB/My-Site/blob/master/layouts/partials/footer/footer.html
 ```
 ![image](https://github.com/user-attachments/assets/4e756cbe-9ef2-42a5-82af-79d033ce1bec)
 
+
+https://utteranc.es/ 确实还不错,但是官方提供的例子只可以发消息却不可以回复消息,
+最后选择了 https://giscus.app/zh-CN ,这个既可以发消息还可以回复消息!
+
+![image](https://github.com/user-attachments/assets/4e814a07-e323-41c6-9be3-5bf2b5d06e92)
+
 ------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/5889006/190859441-141b5f81-8483-40d2-bd96-ebf85616a46d.png)
+
 
 # Hugo Theme Stack
 
